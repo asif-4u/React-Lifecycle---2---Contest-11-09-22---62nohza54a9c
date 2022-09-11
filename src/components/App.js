@@ -14,7 +14,7 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
 
   }
-  componentDidmount(){
+  componentDidMount(){
     console.log("mounted");
   }
 
